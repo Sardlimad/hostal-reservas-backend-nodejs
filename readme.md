@@ -83,5 +83,5 @@ http://localhost:5000/api-docs
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ## 🤝 Contacto
-- GitHub: [@sardlimad](https://github.com/sardlimad)
+- LinkedIn: [@sardlimad](https://www.linkedin.com/in/sardlimad)
 - Email: sardlimad08@gmail.com
