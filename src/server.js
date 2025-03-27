@@ -28,11 +28,8 @@ initializeAdmin().then(() => {
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => console.log(`Servidor corriendo en el puerto ${PORT}`));
 
-
-
-
-
-
 sequelize.sync({ force: false }) // Cambia a true si quieres reiniciar la BD cada vez
   .then(() => console.log('Tablas sincronizadas'))
   .catch(err => console.error('Error sincronizando:', err));
+
+module.exports = app;
